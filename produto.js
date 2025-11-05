@@ -8,7 +8,7 @@
 //8 - 15	Limpeza e utensílios domésticos
 //Qualquer outro código	Código inválido
 
-var cod =10
+var cod = 10
 
 if (cod === 1){
     console.log("Alimento não perecível")

@@ -9,7 +9,10 @@ if(letra == 'a'|| letra =='e'|| letra == "i" || letra == "o" || letra == "u"){
 
 }*/
 
-var letra = prompt("Digite uma letra");
+const prompt = require('prompt-sync')();
+
+
+var letra = prompt("Digite uma letra:");
 
 switch (letra){
     case  'a' || 'e' || 'i' || 'o' || 'u':

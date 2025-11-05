@@ -10,5 +10,6 @@ console.log(livro.título)
 console.log(livro.autor)
 console.log(livro.páginas)
 
+console.log(livro['autor'])
 
 
