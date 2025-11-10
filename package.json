@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node compras.js",
+    "start1": "node salario.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

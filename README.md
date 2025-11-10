@@ -15,3 +15,5 @@ Para executar os testes em JavaScript, utilize o Node.js rodando os arquivos cor
 
 //https://labriunesp.org/docs/projetos/ensino/trilha-dados/linguagens/js/exercicios-js
 
+https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
+
